@@ -1,8 +1,8 @@
-# skdj
+# Demo of Readme Generator
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Describe
-  aksdf
+  Creates Readme in command line
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +13,19 @@
 - [Questions](#questions)
 
 ## Installation
-  sdhf
+  npm i
 
 ## Usage
-  sjdfh
+  create professional readme using application
 
 ## License
   This project uses ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg),You can find more information here: (https://opensource.org/licenses/MIT)
 
 ## Contributing
-  sdlf
+  this is just a demo
 
 ## Tests
-  sdhf
+  npm test
 
 ## Questions
   For any questions please contact me directly at bremus124@gmail.com. To see more of my work please visit
